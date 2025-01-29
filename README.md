@@ -30,7 +30,7 @@ A motivated and disciplined Java Developer with a focus on delivering impactful 
 #### **Version Control**  
 - **Git**
 
-- 📫 How to reach me: vasyabylba@gmail.com
+- 📫 How to reach me: : vasiliyyalovchik00@gmail.com
 
 
 <!--
