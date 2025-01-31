@@ -19,7 +19,7 @@ A motivated and disciplined Java Developer with a focus on delivering impactful 
 - Gradle, Apache Maven
 
 #### 🧪 **Testing**  
-- Unit Testing, Integration Testing, Testcontainers
+- JUnit, Mockito, Testcontainers, WireMock
 
 #### 🐳 **Containerization and DevOps**  
 - Docker
