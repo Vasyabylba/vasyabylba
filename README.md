@@ -3,34 +3,34 @@ A motivated and disciplined Java Developer with a focus on delivering impactful 
 
 ### 🛠 **Skills and Expertise**
 
-#### **Programming Languages**  
+#### 👨‍💻 **Programming Languages**  
 - **Java 21**
 
-#### **Frameworks and Libraries**  
+#### 🚀 **Frameworks and Libraries**  
 - **Spring Ecosystem**: Spring Boot, Spring Data, Spring MVC, Spring Security, Spring Cloud OpenFeign  
-- **Hibernate**
+- **ORM**: Hibernate
 
-#### **Databases and Database Tools**  
+#### 🗄️ **Databases and Tools**  
 - **Relational Databases**: PostgreSQL, MySQL  
 - **NoSQL**: Redis  
 - **Database Versioning**: Liquibase  
 
-#### **Build and Dependency Management**  
-- **Gradle**, **Maven**
+#### ⚙️ **Build and Dependency Management**  
+- Gradle, Apache Maven
 
-#### **Testing**  
-- **Unit Testing**, **Integration Testing**
+#### 🧪 **Testing**  
+- Unit Testing, Integration Testing, Testcontainers
 
-#### **DevOps and Containerization**  
-- **Docker**
+#### 🐳 **Containerization and DevOps**  
+- Docker
 
-#### **API Development**  
-- **REST API**
+#### 🌍 **API Development**  
+- REST API
 
-#### **Version Control**  
-- **Git**
+#### 📂 **Version Control**  
+- Git  
 
-- 📫 How to reach me: : vasiliyyalovchik00@gmail.com
+### 📫 How to reach me: : vasiliyyalovchik00@gmail.com
 
 
 <!--
